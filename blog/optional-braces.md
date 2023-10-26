@@ -1,5 +1,7 @@
-# Scala 3 消失的大括號
-September 10, 2023
+---
+title: Scala 3 消失的大括號
+date: 2023-09-10
+---
 
 說到 Scala 3 的新語法，最有特徵也最具爭議的，應該就是「用縮排取代大括號」的設計了。自從 Martin 在 2017 年五月拋出[第一個提案](https://github.com/lampepfl/dotty/issues/2491)之後，批評的聲音就不曾中斷過。有人說「你要模仿 Python 的話，乾脆把 dynamic typing 也加上去好了」，也有人說「按照這個邏輯，我們應該把道路上的標線跟紅綠燈也拿掉，大家只要在腦中記得交通規則，就能有看起來簡潔又清爽的道路」。但是，身為 Scala 大家長的 Martin，依然 ~~我行我素~~ 擇善固執地帶領 Scala 開發團隊，將這個「最能一眼看出是 Scala 3」的語法，加入了正式版本當中，並且包括官方的[教科書](https://www.artima.com/shop/programming_in_scala_5ed)與[線上課程](https://www.coursera.org/specializations/scala)，也都預設採用了這個語法。
 
