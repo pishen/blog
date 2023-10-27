@@ -7,6 +7,8 @@ date: 2023-09-10
 
 看來當初大家以為的玩笑，轉眼間已成了事實。不過既然木已成舟了，就讓我們來看看葫蘆裡賣什麼藥吧。
 
+<!-- truncate -->
+
 ## 核心概念
 
 完整的大括號省略規則其實相當複雜，細節可以參考官方的 [Optional Braces](https://docs.scala-lang.org/scala3/reference/other-new-features/indentation.html) 頁面。不過，核心概念並不難懂，大致可以理解成：
